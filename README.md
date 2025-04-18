@@ -1,1 +1,2 @@
-# Sign-Language-to-Text-using-CNN-main-main
+# Sign-Language-to-Text-using-CNN
+ 
